@@ -1,9 +1,10 @@
 {
-  "title": "Short, specific title for your notebook",
-  "description": "1–3 sentences. What does the notebook do? What did you find?",
-  "displayName": "Your name as you want it on the page",
-  "tags": ["healthcare", "embeddings"],
-  "collaborators": [
-    { "displayName": "Pat Collaborator", "githubHandle": "pat-collab" }
-  ]
+  "title": "Who Says Yes, and When Does It Matter?",
+  "author": "Dany Sigha",
+  "github_handle": "danysigha",
+  "email": "sigha.dany@gmail.com",
+  "dataset": "UCI Bank Marketing — bank-additional-full.csv",
+  "description": "Statistical analysis of a Portuguese bank's direct marketing campaigns. Uses Mann-Whitney U, Spearman correlation, Kruskal-Wallis H, and Chi-Square tests to identify when campaigns succeed and why 88% of calls fail to convert. Includes interactive 3D scatter, dual-axis temporal charts, and campaign fatigue analysis.",
+  "tools": ["pandas", "scipy", "plotly"],
+  "tags": ["statistical-testing", "marketing", "finance", "plotly", "exploratory-data-analysis"]
 }
